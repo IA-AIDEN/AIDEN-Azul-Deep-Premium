@@ -15,7 +15,7 @@ AIDEN — Inteligencia Artificial Latina
 ## Palancas de ingresos
 - Suscripciones Premium (Azul Deep).
 - Integraciones empresariales y proyectos a medida.
-- Licencias educativas e institucionales.
+- Licencias de API e institucionales.
 
 
 
