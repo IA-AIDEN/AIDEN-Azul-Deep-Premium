@@ -11,8 +11,6 @@ Maximizar la **empatía percibida** sin sacrificar precisión, con control sobre
 - **Timbre** (masculino/femenino).
 - **Intensidad emocional** por escenario.
 
-![Marco Emocional](./assets/emociones.png)
-
 ## Directrices
 - Respuestas calibradas a contexto.
 - Evitar dependencia emocional del usuario.
