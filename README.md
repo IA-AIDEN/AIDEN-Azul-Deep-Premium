@@ -23,7 +23,6 @@ AIDEN Azul Deep (Premium) es el **modelo avanzado** del ecosistema AIDEN, optimi
 - [Monetización y proyecciones](docs/monetizacion.md)
 - [Roadmap 2023–2030](docs/roadmap.md)
 
-**Monetización objetivo:** 2027 → USD 8.5M, 2028 → USD 46M, 2029–2030 → USD 125M (consolidado).
 
 
 
