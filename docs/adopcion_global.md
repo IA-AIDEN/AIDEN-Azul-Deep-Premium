@@ -13,9 +13,9 @@ AIDEN — Inteligencia Artificial Latina
 ![Adopción](./assets/adopcion.png)
 
 ## Indicadores objetivo
-- 2027: 1.2M usuarios premium.
-- 2028: 5.0M usuarios premium.
-- 2029–2030: 8–10M usuarios combinados premium/enterprise.
+- 2027: 500K - 1.2M usuarios 
+- 2028: 5.0M usuarios / premium.
+- 2029–2030: 10 – 15M usuarios combinados activos / premium / enterprise.
 
 
 
