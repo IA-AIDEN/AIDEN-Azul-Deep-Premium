@@ -8,8 +8,6 @@ AIDEN — Inteligencia Artificial Latina
 ## Visión general
 **Azul Deep** implementa un pipeline multimodal con prioridad de **voz** y soporte de **texto**, alineado a una arquitectura de transformadores con ampliación de contexto y componentes de planificación. El objetivo es optimizar **flujo conversacional**, **razonamiento** y **síntesis** para tareas profesionales.
 
-![Arquitectura](./assets/arquitectura.png)
-
 ## Componentes
 1. **Ingesta de voz/texto:** normalización, diarización ligera y transcripción.
 2. **Planner:** descomposición de tareas y persistencia de estado.
