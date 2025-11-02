@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="docs/1A1.JMCS.AIDEN Logotipo.svg" alt="AIDEN Azul Deep Premium" width="35%">
-</p>
+
 
 # Adopción Global y Despliegue
 AIDEN — Inteligencia Artificial Latina
