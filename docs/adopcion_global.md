@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner_aiden.png" alt="AIDEN Azul Deep Premium" width="60%">
+  <img src="docs/1A1.JMCS.AIDEN Logotipo.svg" alt="AIDEN Azul Deep Premium" width="60%">
 </p>
 
 # Adopción Global y Despliegue
