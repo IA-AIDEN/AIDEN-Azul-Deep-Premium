@@ -10,8 +10,6 @@ AIDEN — Inteligencia Artificial Latina
 - Afinado en **instrucciones profesionales** (marketing, producto, ingeniería, finanzas).
 - Refuerzo humano enfocado en **voz** (tono, ritmo, empatía).
 
-![Entrenamiento](./assets/entrenamiento.png)
-
 ## Dataset (alta-nivel, curación responsable)
 - Datos de dominio público y licencias abiertas.
 - Filtrado de sesgos y toxicidad, balance regional.
