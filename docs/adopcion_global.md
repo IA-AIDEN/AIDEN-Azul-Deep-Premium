@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="docs/1A1.JMCS.AIDEN Logotipo.svg" alt="AIDEN Logo" width="350"/>
+</p>
 
 # Adopción Global y Despliegue
 AIDEN — Inteligencia Artificial Latina
