@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner_aiden.png" alt=AIDEN Azul Deep Premium" width="60%">
+  <img src="docs/assets/AIDEN Logo Horizontal Fondo T 2.svg" width="60%">
 </p>
 
 # Monetización y Proyecciones (2027–2030)
