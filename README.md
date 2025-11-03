@@ -46,7 +46,7 @@ AIDEN Azul Deep integra un sistema de mezcla de expertos (MoE) con arquitectura 
 ---
 
 <p align="center">
-  <img src="assets/benchmark_aiden_azul_deep.png" alt="Benchmark Comparativo — AIDEN Azul Deep" width="800"/>
+  <img src="docs/benchmark_aiden_azul_deep.png" width="800"/>
 </p>
 
 **Figura:** Comparativa de precisión y desempeño entre AIDEN Core, AIDEN Azul Deep, GPT-4, DeepSeek y Qwen.
