@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/1A1.JMCS.AIDEN Logotipo.svg" alt="AIDEN Logo" width="350"/>
+  <img src="docs/assets/AIDEN Logo Horizontal Fondo T 2.svg"350"/>
 </p>
 
 # Adopción Global y Despliegue
