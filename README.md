@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="assets/1A1.JMCS.AIDEN.LOGOTIPO.B2.Horizontal.Fondo.T.2.png" alt="AIDEN Logo" width="450"/>
+  <img src="docs/1A1.JMCS.AIDEN Logotipo.svg" alt="AIDEN Logo" width="450"/>
 </p>
 
 <h1 align="center">AIDEN Azul Deep (Premium)</h1>
