@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/1A1.JMCS.AIDEN Logotipo.svg"AIDEN Azul Deep Premium" width="35%">
+  <img src="docs/1A1.JMCS.AIDEN Logotipo.svg AIDEN Azul Deep Premium" width="35%">
 </p>
 
 # Arquitectura del Modelo Azul Deep
