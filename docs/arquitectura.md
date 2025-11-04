@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/AIDEN. LOGO.png" width="35%">
+  <img src="AIDEN_LOGO.png" width="450"/>
 </p>
 
 # Arquitectura del Modelo Azul Deep
