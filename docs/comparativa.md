@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/AIDEN. LOGO.png" width="60%">
+  <img src="dAIDEN_LOGO.png" width="60%">
 </p>
 
 # Comparativa Técnica y Benchmarks
