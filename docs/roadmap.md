@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/1A1.JMCS.AIDEN Logotipo 4.svg" width="50%">
+  <img src="docs/assets/1A1.JMCS.AIDEN Logotipo 2.svg" width="50%">
 </p>
 
 # Roadmap 2023–2030
