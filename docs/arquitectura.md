@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/AIDEN Logo Horizontal Fondo T 2.svg" width="35%">
+  <img src="AIDEN. Logo B2 Horizontal Fondo TL2.svg" width="35%">
 </p>
 
 # Arquitectura del Modelo Azul Deep
