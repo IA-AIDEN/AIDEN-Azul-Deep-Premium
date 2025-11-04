@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/AIDEN. LOGO.png" width="60%">
+  <img src="AIDEN_LOGO.png" width="450"/>
 </p>
 
 # Estrategia de Entrenamiento
