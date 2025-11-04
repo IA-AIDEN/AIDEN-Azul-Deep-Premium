@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/AIDEN. LOGO.png" alt="AIDEN Logo" width="450"/>
+  <img src="docs/assets/1A1.JMCS.AIDEN Logotipo 2.svg" width="450"/>
 </p>
 
 <h1 align="center">AIVA — Modelo de Voz y Acompañamiento Emocional Femenino</h1>
