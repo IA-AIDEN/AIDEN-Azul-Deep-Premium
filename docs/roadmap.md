@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner_aiden.png" alt="AIDEN Azul Deep Premium" width="60%">
+  <img src="AIDEN. Logo B2 Horizontal Fondo TL2.svg" alt="AIDEN Azul Deep Premium" width="60%">
 </p>
 
 # Roadmap 2023–2030
